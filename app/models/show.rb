@@ -7,7 +7,5 @@ class Show < ActiveRecord::Base
       "#{a.full_name}"
     end
   end 
-  def build.show
-    
-  end
+
 end
